@@ -1,0 +1,24 @@
+<div class="hvr-wobble-vertical  cards card-cut">
+    <a href="{{ .RelPermalink }}" class="">
+        <div>
+            <h6>{{ .Title }}</h6>
+            <p style="margin: 0px;">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+            <p style="margin: 0px;">{{ .Description }}</p>
+            <p class="blog-btn-arrow">Read more</p>
+        </div>
+    </a>
+</div>
+
+<style>
+    .cards {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: #fff;
+        background-clip: border-box;
+        border-bottom: 4px solid rgba(0, 0, 0, .125) !important;
+        border-radius: 0.25rem;
+    }
+</style>
