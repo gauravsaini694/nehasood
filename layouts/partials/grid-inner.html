@@ -7,7 +7,7 @@
         </div>
         {{range .lists }}
         <div class="rowitems col-lg-12 col-md-12">
-            <div class="col-lg-5 col-md-5 imgcontent"><img src="{{ .image | absURL }}" alt=""></div>
+            <div class="col-lg-5 col-md-5 imgcontent"><img src="{{ .sectionsimage | absURL }}" alt=""></div>
             <div class="col-lg-7 col-md-7 gridcontent">
                 <h3>{{.heading}}</h3>
                 {{with .subHeading}}
