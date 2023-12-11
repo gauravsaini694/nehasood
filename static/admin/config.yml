@@ -57,27 +57,7 @@ collections:
           - {label: Description, name: 'hBelwoBoxDesc', widget: 'string'}      
           - {label: Image, name: 'hBelwoBoxImage', widget: 'image'}      
           - {label: Url, name: 'hBelwoBoxBtnUrl', widget: 'string'}  
-      - label: Sections6
-        name: sections
-        widget: "list"
-        create: true
-        collapsed: true
-        required: false
-        fields:
-          - {label: Section Title, name: 'title', widget: 'string'}      
-          - {label: Section Sub Title, name: 'subTitle', widget: 'string', required: false}      
-          - {label: Badge Name, name: 'titleBadge', widget: 'string'}      
-          - label: Lists
-            name: 'lists'
-            widget: "list"
-            create: true
-            collapsed: true
-            fields:
-              - {label: Section Heading, name: 'heading', widget: 'string'}
-              - {label: Section Sub Heading, name: 'subHeading', widget: 'string', required: false}
-              - {label: Information, name: 'content', widget: 'markdown'}
-              - {label: image, name: 'image', widget: 'image'}
-      - label: Sections12
+      - label: Sections
         name: sections
         widget: "list"
         create: true
@@ -102,6 +82,7 @@ collections:
         widget: "list"
         create: true
         collapsed: true
+        required: false
         fields:
           - {label: faq Title, name: 'faqtitle', widget: 'string'}      
           - {label: Badge Name, name: 'faqtitleBadge', widget: 'string'}      
@@ -115,18 +96,21 @@ collections:
               - {label: faq Answers, name: 'hBefaqBoxAnswers', widget: 'string'}
               - {label: faq href, name: 'hrefAnswers', widget: 'string'} 
               - {label: faq id, name: 'idAnswers', widget: 'string'} 
+      - label: carousel
+        name: carousel
+        widget: "list"
+        create: true
+        collapsed: true
+        required: false
+        fields:
+          - {label: carousel Title, name: 'titlecarousel', widget: 'string'}      
+          - {label: carousel Sub Title, name: 'subTitlecarousel', widget: 'string', required: false}      
+          - label: Lists
+            name: 'lists'
+            widget: "list"
+            create: true
+            collapsed: true
+            fields:
+              - {label: image, name: 'image', widget: 'image'} 
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
-  - name: "blog"
-    label: "Blog"
-    folder: "content/blog"
-    create: true
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string"}
-      - { label: "Date", name: "date", widget: "date" }
-      - { label: "Draft", name: "draft", widget: "boolean", default: true}
-      - { label: "image", name: "image", widget: "image"}
-      - { label: "Body", name: "body", widget: "markdown" }  
