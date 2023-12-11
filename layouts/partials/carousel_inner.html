@@ -1,0 +1,14 @@
+{{range .Params.carousel}}
+<div class="container" id="clientscroll">
+    <section class="customer-logos slider">
+        {{ range .lists }}
+        <div class="slide">
+            <div class="client-slide">
+                <img src="{{ .image | absURL }}" alt="{{.brand}}" class="img-fluid">
+            </div>
+        </div>
+        {{end}}
+    </section>
+</div>
+{{end}}
+<!-- Faq Section Ends -->

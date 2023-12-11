@@ -1,0 +1,27 @@
+{{range .Params.faq}}
+<div class="homegrid my-5 py-5">
+    <div class="container">
+        <div class="col-md-12 text-center topblocktxt">
+            <span class="blocktxt">{{.titleBadgeFaq}}</span>
+            <h3>{{.titleFaq}}</h3>
+        </div>
+        {{range .lists }}
+        <div class="col-md-10 offset-md-1">
+            <div id="accordion" class="accordion faqaccordion">
+                <div class="card mb-0">
+                    <div class="card-header collapsed" data-toggle="collapse" href="#{{.hrefAnswers}}">
+                        <a class="card-title">
+                                    {{.hBefaqBoxQuestions}}
+                                </a>
+                    </div>
+                    <div id="{{.idAnswers}}" class="card-body collapse" data-parent="#accordion">
+                        <p>{{.hBefaqBoxAnswers}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{end}}
+    </div>
+</div>
+{{end}}
+<!-- Faq Section Ends -->
