@@ -77,7 +77,6 @@ collections:
               - {label: Section Sub Heading, name: 'subHeading', widget: 'string', required: false}
               - {label: Information, name: 'content', widget: 'markdown'}
               - {label: image, name: 'image', widget: 'image'}
-              - label: Sections
       - label: Faq
         name: faq
         widget: "list"
