@@ -66,7 +66,6 @@ collections:
         fields:
           - {label: Section Title, name: 'title', widget: 'string'}      
           - {label: Section Sub Title, name: 'subTitle', widget: 'string', required: false}      
-          - {label: Badge Name, name: 'titleBadge', widget: 'string'}      
           - label: Lists
             name: 'lists'
             widget: "list"
@@ -85,7 +84,6 @@ collections:
         required: false
         fields:
           - {label: faq Title, name: 'faqtitle', widget: 'string'}      
-          - {label: Badge Name, name: 'faqtitleBadge', widget: 'string'}      
           - label: Lists
             name: 'lists'
             widget: "list"

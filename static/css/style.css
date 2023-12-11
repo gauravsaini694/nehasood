@@ -2223,3 +2223,262 @@ nav {
     border-top: none;
     margin-top: -2px;
 }
+
+
+/* ----------------------------------------------CMS--------------------------------------------- */
+
+#hero {
+    height: 100%;
+    height: auto;
+    padding: 0px 0px 55px 15px;
+    width: 100%;
+    float: left;
+}
+
+#hero h4 {
+    color: #2C2B30;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 46px;
+}
+
+#hero h3 {
+    color: #130f2d;
+    font-size: 24px;
+}
+
+#hero h3 span {
+    color: #ff8f99;
+}
+
+#hero h1 {
+    position: relative;
+    color: #57419d;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#hero h1::before {
+    content: '';
+    width: 30px;
+    height: 2px;
+    background: #ff8f99;
+    display: inline-block;
+    margin: 0 15px 5px 0;
+}
+
+#hero p {
+    color: #050505;
+    font-size: 22px;
+    line-height: 1.3;
+}
+
+#hero .bannerbtn a {
+    display: inline-block;
+    background: #ff8f99;
+    color: #fff !important;
+    font-size: 16px;
+    padding: 0.65em 2em;
+    border-radius: 6px;
+    font-weight: 400;
+    margin: 0px 0 0 0;
+}
+
+#hero .bannerbtn a:hover {
+    background: #FF8F99;
+}
+
+#hero .bannerbtn1 a {
+    display: inline-block;
+    background: #ff8f99;
+    color: #fff !important;
+    font-size: 24px;
+    padding: 0.65em 2em;
+    border-radius: 6px;
+    margin: 0px 0 0 0;
+}
+
+#hero .bannerbtn1 a:hover {
+    background: #f86572;
+}
+
+#hero.influencebanner h2,
+#hero.influencebanner h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    color: #2c2b30;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+#hero.influencebanner p {
+    font-size: 18px;
+    color: #7c778a;
+}
+
+.h1-hero {
+    font-size: 36px;
+}
+
+.boxsection .shadowbox {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+    border-radius: 5%;
+    padding: 10px 26px 20px;
+    text-align: center;
+}
+
+.boxsection .shadowbox figure {
+    max-height: 270px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.boxsection .shadowbox figure img {
+    max-height: 100%;
+}
+
+.boxsection .shadowbox:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2);
+}
+
+.shadowbox h5 {
+    font-size: 18px;
+    color: #2c2b30;
+    font-weight: 700;
+}
+
+.shadowbox p {
+    font-size: 14px;
+    color: #7c778a;
+}
+
+.boxsection.space {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.boxsection.space .row {
+    flex-wrap: wrap;
+}
+
+.boxsection.space .row>[class*='col-'] {
+    flex-grow: 1;
+}
+
+
+/* ------------------ */
+
+.rowitems {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.rowitems:first-child {
+    margin-top: 0px;
+}
+
+.rowitems:nth-child(odd) .imgcontent {
+    order: 2;
+}
+
+.rowitems:nth-child(even) .imgcontent {
+    order: 1;
+}
+
+.rowitems:nth-child(odd) .gridcontent {
+    order: 1;
+    text-align: left;
+}
+
+.rowitems:nth-child(even) .gridcontent {
+    order: 2;
+}
+
+.rowitems .gridcontent {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.7em;
+}
+
+.rowitems .gridcontent h2 {
+    color: #000;
+    font-size: 35px;
+    line-height: 30px;
+}
+
+.rowitems .gridcontent h3 {
+    text-transform: none;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.rowitems .gridcontent h4 {
+    color: #57419d;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.rowitems .gridcontent p {
+    line-height: 25px;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.rowitems .gridcontent ol,
+.rowitems .gridcontent ul {
+    line-height: 2rem;
+    font-size: 16px;
+    font-weight: 100;
+    margin-top: 15px;
+    padding-left: 12px;
+}
+
+.topblocktxt {
+    margin-bottom: 30px;
+}
+
+.topblocktxt p {
+    padding: 0px 6%;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.topblocktxt h2 {
+    font-size: 34px;
+    line-height: 46px;
+    color: #2C2B30;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+span.blocktxt {
+    display: inline-block;
+    background: #cdfce5;
+    border-radius: 6px;
+    padding: 4px 8px;
+    font-size: 16px;
+    color: #57419d;
+    margin-bottom: 20px;
+}
+
+.transparentbtn {
+    background: none !important;
+    border: 1px solid #261465;
+    border-radius: 8px;
+    color: #261465 !important;
+}
+
+.transparentbtn:hover {
+    background: #f86572 !important;
+    color: #fff !important;
+    border: 1px solid transparent;
+}
