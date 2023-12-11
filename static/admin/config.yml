@@ -57,7 +57,7 @@ collections:
           - {label: Description, name: 'hBelwoBoxDesc', widget: 'string'}      
           - {label: Image, name: 'hBelwoBoxImage', widget: 'image'}      
           - {label: Url, name: 'hBelwoBoxBtnUrl', widget: 'string'}  
-      - label: Sections6
+      - label: Sections
         name: sections
         widget: "list"
         create: true
@@ -78,25 +78,6 @@ collections:
               - {label: Information, name: 'content', widget: 'markdown'}
               - {label: image, name: 'image', widget: 'image'}
               - label: Sections
-        name: sections12
-        widget: "list"
-        create: true
-        collapsed: true
-        required: false
-        fields:
-          - {label: Section Title, name: 'title', widget: 'string'}      
-          - {label: Section Sub Title, name: 'subTitle', widget: 'string', required: false}      
-          - {label: Badge Name, name: 'titleBadge', widget: 'string'}      
-          - label: Lists
-            name: 'lists'
-            widget: "list"
-            create: true
-            collapsed: true
-            fields:
-              - {label: Section Heading, name: 'heading', widget: 'string'}
-              - {label: Section Sub Heading, name: 'subHeading', widget: 'string', required: false}
-              - {label: Information, name: 'content', widget: 'markdown'}
-              - {label: image, name: 'image', widget: 'image'}
       - label: Faq
         name: faq
         widget: "list"
