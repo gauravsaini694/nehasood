@@ -22,13 +22,9 @@ sectionsinner:
     lists:
       - headinginner: Why Does it Happen?
         content: |-
-          Blockage of your airway ( OBSTRUCTIVE SLEEP APNEA )
-
-
+          
 
           ### Symptoms in Children
-
-
 
           * Snoring
           * Hyper activity
@@ -43,5 +39,6 @@ sectionsinner:
           * Awakening with dry mouth
           * Excessive Daytime Sleepiness
           * Frequent Urination at Night
+        subHeadinginner: Blockage of your airway ( OBSTRUCTIVE SLEEP APNEA )
 date: 2023-12-11T08:48:49.719Z
 ---
