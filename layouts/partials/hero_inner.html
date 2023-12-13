@@ -1,14 +1,21 @@
-<div class="row align-items-center pt-150 hero-info">
-    <div class="col-lg-6 ">
-        <div class="col-md-11 mx-auto">
-            <h1 class="h1-hero">{{ .Params.hero.heroTitle}} </h1>
-            {{ .Params.hero.heroDesc | safeHTML }}
-            <div class="bannerbtn mt-4">
-                <a href="{{ .Params.hero.heroBtnUrl}}" class="btn-arrow" tarfet="{{ .Params.hero.btnTraget}}">{{ .Params.hero.heroBtnText}}</a>
+<div class="banner_content flex-wrap bg_sea_blue justify-content-between flex-column-reverse_xs">
+    <div class="col-md-10 mx-auto ">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center">
+                <div class="banner_text2 px-5 py-3">
+                    <h1 class="banner_heading1 text-white">
+                        {{ .Params.hero.heroTitle}}
+                    </h1>
+                    <br>
+                    <p class="text-white">{{ .Params.hero.heroDesc | safeHTML }}</p>
+                    <a href="{{ .Params.hero.heroBtnUrl}}" class="banner_btn" tarfet="{{ .Params.hero.btnTraget}}">{{ .Params.hero.heroBtnText}}</a>
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-6">
+                <div>
+                    <figure><img src="{{ .Params.hero.heroImage}}" alt="{{ .Params.hero.heroTitle}}"></figure>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="col-lg-6">
-        <figure><img src="{{ .Params.hero.heroImage}}" alt="{{ .Params.hero.heroTitle}}"></figure>
     </div>
 </div>

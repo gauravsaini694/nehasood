@@ -76,6 +76,24 @@ collections:
               - {label: Section Sub Heading, name: 'subHeading', widget: 'string', required: false}
               - {label: Information, name: 'content', widget: 'markdown'}
               - {label: image, name: 'sectionsimage', widget: 'image'}
+      - label: Sectionsinner
+        name: sectionsinner
+        widget: "list"
+        create: true
+        collapsed: true
+        required: false
+        fields:
+          - {label: Section Title, name: 'title', widget: 'string'}      
+          - {label: Section Sub Title, name: 'subTitle', widget: 'string', required: false}      
+          - label: Lists
+            name: 'lists'
+            widget: "list"
+            create: true
+            collapsed: true
+            fields:
+              - {label: Section Heading, name: 'headinginner', widget: 'string'}
+              - {label: Section Sub Heading, name: 'subHeadinginner', widget: 'string', required: false}
+              - {label: Information, name: 'content', widget: 'markdown'}
       - label: Faq
         name: faq
         widget: "list"

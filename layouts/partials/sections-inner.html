@@ -1,0 +1,21 @@
+{{range .Params.sectionsinner}}
+<div class="homegrid my-5 py-5">
+    <div class="row">
+        <div class="col-md-12 text-center topblocktxt">
+            <h2>{{.title}}</h2>
+            <p>{{.subTitle}}</p>
+        </div>
+        {{range .lists }}
+        <div class="col-lg-12 col-md-12">
+            <div class="col-lg-12 col-md-12 ">
+                <h3>{{.heading}}</h3>
+                {{with .subHeading}}
+                <h4>{{.}}</h4>{{end}} {{.content | safeHTML | markdownify}}
+
+                <div class="bannerbtn mt-4"><a href="#" class="btn-arrow transparentbtn">Get More</a></div>
+            </div>
+        </div>
+        {{end}}
+    </div>
+</div>
+{{end}}
