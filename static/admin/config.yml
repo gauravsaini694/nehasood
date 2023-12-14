@@ -39,8 +39,8 @@ collections:
         collapsed: true
         fields:
           - {label: Title, name: 'heroTitle', widget: 'string'}      
-          - {label: Description, name: 'heroDesc', widget: 'string'}      
-          - {label: Image, name: 'heroImage', widget: 'image'}      
+          - {label: Description, name: 'heroDesc', widget: 'string', required: false}      
+          - {label: Image, name: 'heroImage', widget: 'image', required: false}      
           - {label: Button Text, name: 'heroBtnText', widget: 'string', required: false}      
           - {label: Button Url, name: 'heroBtnUrl', widget: 'string', required: false} 
       - { label: 'How many boxes you want to below of Hero', name: 'heroBelwoBoxNumber', widget: 'number', default: 3, min: 2, max: 4 } 
@@ -53,10 +53,10 @@ collections:
         max: 4
         min: 2
         fields:
-          - {label: Title, name: 'hBelwoBoxTitle', widget: 'string'}      
-          - {label: Description, name: 'hBelwoBoxDesc', widget: 'string'}      
-          - {label: Image, name: 'hBelwoBoxImage', widget: 'image'}      
-          - {label: Url, name: 'hBelwoBoxBtnUrl', widget: 'string'}  
+          - {label: Title, name: 'hBelwoBoxTitle', widget: 'string', required: false}      
+          - {label: Description, name: 'hBelwoBoxDesc', widget: 'string', required: false}      
+          - {label: Image, name: 'hBelwoBoxImage', widget: 'image', required: false}      
+          - {label: Url, name: 'hBelwoBoxBtnUrl', widget: 'string', required: false}  
       - label: Sections
         name: sections
         widget: "list"
@@ -64,7 +64,7 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: Section Title, name: 'title', widget: 'string'}      
+          - {label: Section Title, name: 'title', widget: 'string', required: false}      
           - {label: Section Sub Title, name: 'subTitle', widget: 'string', required: false}      
           - label: Lists
             name: 'lists'
@@ -72,10 +72,10 @@ collections:
             create: true
             collapsed: true
             fields:
-              - {label: Section Heading, name: 'heading', widget: 'string'}
+              - {label: Section Heading, name: 'heading', widget: 'string', required: false}
               - {label: Section Sub Heading, name: 'subHeading', widget: 'string', required: false}
               - {label: Information, name: 'content', widget: 'markdown'}
-              - {label: image, name: 'sectionsimage', widget: 'image'}
+              - {label: image, name: 'sectionsimage', widget: 'image', required: false}
       - label: Sectionsinner
         name: sectionsinner
         widget: "list"
@@ -83,7 +83,7 @@ collections:
         collapsed: true
         required: false
         fields:
-          - {label: Section Title, name: 'title', widget: 'string'}      
+          - {label: Section Title, name: 'title', widget: 'string', required: false}      
           - {label: Section Sub Title, name: 'subTitle', widget: 'string', required: false}      
           - label: Lists
             name: 'lists'
@@ -91,7 +91,7 @@ collections:
             create: true
             collapsed: true
             fields:
-              - {label: Section Heading, name: 'headinginner', widget: 'string'}
+              - {label: Section Heading, name: 'headinginner', widget: 'string', required: false}
               - {label: Section Sub Heading, name: 'subHeadinginner', widget: 'string', required: false}
               - {label: Information, name: 'content', widget: 'markdown'}
       - label: Faq
