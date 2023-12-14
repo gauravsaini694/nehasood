@@ -2483,6 +2483,27 @@ span.blocktxt {
     border: 1px solid transparent;
 }
 
-.innercontainer {
-    background: #00c1bc !important;
+#sectionsinner h2 {
+    color: #00c1bc !important;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+#sectionsinner h3 {
+    color: #00c1bc !important;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+#sectionsinner ul {
+    list-style: none;
+}
+
+#sectionsinner ul li::before {
+    content: "\2022";
+    color: #00c1bc;
+    font-weight: bold;
+    display: inline-block;
+    width: 2em;
+    margin-left: -2em;
 }
