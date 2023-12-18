@@ -2507,3 +2507,10 @@ span.blocktxt {
     width: 2em;
     margin-left: -2em;
 }
+
+#sectionsinner p a {
+    color: #00c1bc !important;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 1.75rem;
+}
