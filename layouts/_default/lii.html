@@ -1,13 +1,12 @@
-<div class="hvr-wobble-vertical  cards card-cut">
-    <a href="{{ .RelPermalink }}" class="">
-        <div>
-            <h6>{{ .Title }}</h6>
-            <p style="margin: 0px;">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-            <p style="margin: 0px;">{{ .Description }}</p>
-            <p class="blog-btn-arrow">Read more</p>
-        </div>
-    </a>
-</div>
+<a href="{{ .RelPermalink }}" class="">
+    <div>
+        <h6 class="post-date">{{ .Title }}</h6>
+        <p class="carddrh3-p">{{ .Description }}</p>
+        <p class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+        <p class="post-date">Read more</p>
+    </div>
+</a>
+<hr>
 
 <style>
     .cards {

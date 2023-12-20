@@ -1,11 +1,15 @@
 {{ define "main" }}
-<div class="breadcrumbs d-flex align-items-center" style="background-image: url('/img/breadcrumbs-bg.jpg');">
-    <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
-        <h2>Blog</h2>
-        <ol>
-            <li><a href="/">Home</a></li>
-            <li>Blog</li>
-        </ol>
+<div class="banner_content flex-wrap bg_sea_blue justify-content-between flex-column-reverse_xs">
+    <div class="col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center">
+        <div class="banner_text2 px-5 py-3">
+            <h1 class="banner_heading1 text-white">Blog</h1>
+            <h1 class="banner_heading4 text-white">
+                "Sound Solutions: Dr. Neha Sood's Blog for Ear, Nose & Throat Wellness"
+            </h1>
+        </div>
+    </div>
+    <div class="col-lg-5 col-md-6 col-sm-6">
+        <img src=" /images/Banner_3.png" class="img-fluid" alt="" />
     </div>
 </div>
 <!-- Hero End -->
@@ -19,7 +23,7 @@
     <div class="row" id="showresults">
         {{ range (.Paginator 1000).Pages.ByPublishDate.Reverse }}
         <div class="col-lg-4 col-md-6 col-12 phone-fast mt-4 filter {{range .Params.categories}}{{.}} {{end}}">
-            <div class="grids blog-shadow ">
+            <div>
                 {{ .Render "li"}}
             </div>
         </div>

@@ -2519,3 +2519,43 @@ span.blocktxt {
     width: 550px;
     height: 550px;
 }
+
+.our_products-banner {
+    /* background-image: url(/images/Banner_3.png); */
+    background-color: #00c1bc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 210px 0px 210px 0px;
+    position: relative;
+}
+
+.carddr {
+    background: #FCFCFC;
+    border-radius: 20px;
+}
+
+.carddrh3 {
+    color: #00c1bc !important;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.post-date {
+    color: #00c1bc !important;
+}
+
+.carddrh3-p {
+    color: #868380 !important;
+}
+
+.sidebarcard {
+    background: #f3f6f7;
+    border-radius: 20px;
+}
+
+.blogs-form {
+    position: sticky;
+    top: 85px;
+    right: 0;
+    bottom: 0;
+}
