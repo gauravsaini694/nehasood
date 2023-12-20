@@ -2514,3 +2514,8 @@ span.blocktxt {
     margin-bottom: 15px;
     font-size: 1.75rem;
 }
+
+#lightgallery img {
+    width: 550px;
+    height: 550px;
+}
