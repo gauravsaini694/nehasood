@@ -2559,3 +2559,8 @@ span.blocktxt {
     right: 0;
     bottom: 0;
 }
+
+.card-img-top-blog {
+    width: 393px !important;
+    height: 250px !important;
+}

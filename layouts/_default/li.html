@@ -2,12 +2,12 @@
     <a href="{{ .RelPermalink }}">
         <div class="post-item position-relative h-100">
             <div class="post-img position-relative overflow-hidden">
-                {{ if .Params.image }}<img class="img-fluid" loading="lazy" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+                {{ if .Params.image }}<img class="img-fluid card-img-top-blog" loading="lazy" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
             </div>
             <div class="post-content d-flex flex-column" style="padding: 15px;">
                 <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-                <h3 class="carddrh3">{{ .Title }}</h3>
-                <p class="carddrh3-p">
+                <h3 maxlength="50" class="carddrh3 titleclear">{{ .Title }}</h3>
+                <p maxlength="100" class="carddrh3-p descriptionclear">
                     {{ .Description }}
                 </p>
                 <hr>

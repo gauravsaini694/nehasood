@@ -44,3 +44,28 @@
         target: '#contact',
     });
 </script>
+
+
+<script>
+    $(document).ready(function() {
+
+        $('.titleclear').each(function(f) {
+
+            var newstr = $(this).text().substring(0, 45) + "...";
+            $(this).text(newstr);
+
+        });
+    })
+</script>
+
+<script>
+    $(document).ready(function() {
+
+        $('.descriptionclear').each(function(f) {
+
+            var newstr = $(this).text().substring(0, 100) + "...";
+            $(this).text(newstr);
+
+        });
+    })
+</script>

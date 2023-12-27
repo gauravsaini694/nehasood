@@ -1,9 +1,9 @@
 ---
-title: KNOWLEDGE BYTES
-description: Hearing Loss is a Neurodevelopmental Emergency
-date: 2023-12-19T23:25:39.307Z
+title: Hearing Loss
+description: HeAccording to WHO, 360 million people (approximately 5% of the world’s population) live with disabling hearing loss and nearly 32 million of them are children.
+date: 2023-12-26T23:25:39.307Z
 draft: false
-image: /images/blog/nehasood.png
+image: /images/blog/knowledge.jpeg
 ---
 
 According to WHO, 360 million people
