@@ -10,7 +10,7 @@ hero:
   heroDesc: Hearing loss that occurs gradually as you age (presbycusis) is common.
     Almost half the people in the United States older than age 65 have some
     degree of hearing loss.
-  heroImage: /images/uploads/old-hearing.jpg
+  heroImage: /images/uploads/hearing-banner.png
   heroBtnText: Book Appointment
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
 heroBelwoBoxNumber: 3

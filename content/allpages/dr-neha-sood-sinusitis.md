@@ -109,22 +109,18 @@ sectionsinner:
           Common causes of chronic sinusitis include:
 
 
-          **Nasal polyps -** These tissue growths can block the nasal passages or sinuses.
+          * **Nasal polyps -** These tissue growths can block the nasal passages or sinuses.
+
+          * **Deviated nasal septum.** A crooked septum — the wall between the nostrils — may restrict or block sinus passages, making the symptoms of sinusitis worse.
+
+          * **Other medical conditions.** The complications of conditions such as cystic fibrosis, HIV and other immune system-related diseases can lead to nasal blockage.
+
+          * **Respiratory tract infections.** Infections in your respiratory tract — most commonly colds — can inflame and thicken your sinus membranes and block mucus drainage. These infections can be caused by viruses or bacteria.
+
+          * **Allergies such as hay fever.** Inflammation that occurs with allergies can block your sinuses.
 
 
-          **Deviated nasal septum.** A crooked septum — the wall between the nostrils — may restrict or block sinus passages, making the symptoms of sinusitis worse.
-
-
-          **Other medical conditions.** The complications of conditions such as cystic fibrosis, HIV and other immune system-related diseases can lead to nasal blockage.
-
-
-          **Respiratory tract infections.** Infections in your respiratory tract — most commonly colds — can inflame and thicken your sinus membranes and block mucus drainage. These infections can be caused by viruses or bacteria.
-
-
-          **Allergies such as hay fever.** Inflammation that occurs with allergies can block your sinuses.
-
-
-          Risk factors
+          ## Risk factors
 
 
           #### You're at increased risk of getting chronic sinusitis if you have:
@@ -157,10 +153,9 @@ sectionsinner:
           Serious complications of chronic sinusitis complications are rare, but may include:
 
 
-          **Vision problems.** If your sinus infection spreads to your eye socket, it can cause reduced vision or possibly blindness that can be permanent.
+          * **Vision problems.** If your sinus infection spreads to your eye socket, it can cause reduced vision or possibly blindness that can be permanent.
 
-
-          **Infections.** Uncommonly, people with chronic sinusitis may develop inflammation of the membranes and fluid surrounding the brain and spinal cord (meningitis), an infection in the bones, or a serious skin infection.
+          * **Infections.** Uncommonly, people with chronic sinusitis may develop inflammation of the membranes and fluid surrounding the brain and spinal cord (meningitis), an infection in the bones, or a serious skin infection.
 
 
           #### Prevention
@@ -169,16 +164,13 @@ sectionsinner:
           Take these steps to reduce your risk of getting chronic sinusitis:
 
 
-          **Avoid upper respiratory infections.** Avoid contact with people who have colds or who are sick with other infections. Wash your hands frequently with soap and water, especially before meals.
+          * **Avoid upper respiratory infections.** Avoid contact with people who have colds or who are sick with other infections. Wash your hands frequently with soap and water, especially before meals.
 
+          * **Manage your allergies.** Work with your doctor to keep symptoms under control. Avoid exposure to things you're allergic to whenever possible.
 
-          **Manage your allergies.** Work with your doctor to keep symptoms under control. Avoid exposure to things you're allergic to whenever possible.
+          * **Avoid cigarette smoke and polluted air.** Tobacco smoke and air contaminants can irritate and inflame your lungs and nasal passages.
 
-
-          **Avoid cigarette smoke and polluted air.** Tobacco smoke and air contaminants can irritate and inflame your lungs and nasal passages.
-
-
-          **Use a humidifier.** If the air in your home is dry, such as it is if you have forced hot air heat, adding moisture to the air may help prevent sinusitis. Be sure to keep the humidifier clean and free of mold with regular, thorough cleaning.
+          * **Use a humidifier.** If the air in your home is dry, such as it is if you have forced hot air heat, adding moisture to the air may help prevent sinusitis. Be sure to keep the humidifier clean and free of mold with regular, thorough cleaning.
 
 
           ### Diagnosis & treatment
@@ -253,6 +245,5 @@ sectionsinner:
 
 
 
-          ![](/images/uploads/drnehasood.jpg)
 date: 2023-12-14T06:41:39.031Z
 ---

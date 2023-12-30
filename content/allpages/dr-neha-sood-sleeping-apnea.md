@@ -8,7 +8,7 @@ hero:
   heroTitle: SLEEPING APNEA AND SNORING
   heroBtnText: Book Appointment
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
-  heroImage: /images/uploads/sleeping_apnea_side.png
+  heroImage: /images/snoring.png
 heroBelwoBoxNumber: 3
 sectionsinner:
   - title: SLEEPING APNEA AND SNORING

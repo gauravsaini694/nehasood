@@ -6,7 +6,7 @@ keywords:
   - keyText: "Dr. Neha Sood :: Swollen"
 hero:
   heroTitle: SWOLLEN LYMPH NODES
-  heroImage: /images/uploads/sw.jpeg
+  heroImage: /images/uploads/swollen-lymph-nodes.png
   heroBtnText: Book Appointment
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
 heroBelwoBoxNumber: 3
@@ -25,13 +25,12 @@ sectionsinner:
           These lymph nodes filter the germs and cells that passes through your lymph fluid. White blood cells, proteins, and fats make up the fluid known as lymph, which is clear or slightly yellowish in color.
 
 
-          ![](http://localhost:36551/images/sw.jpeg)
 
 
           ### Common Causes
 
 
-          * impacted tooth
+          * Impacted tooth
 
           * Ear infection
 
@@ -53,13 +52,13 @@ sectionsinner:
           ### 1. Infections
 
 
-          * bacterial,
+          * Bacterial,
 
-          * fungal,
+          * Fungal,
 
           * viral,
 
-          * mycobacterial,
+          * Mycobacterial,
 
           * Others Infections
 
@@ -67,27 +66,27 @@ sectionsinner:
           ### 2. Autoimmune disorders
 
 
-          * systemic lupus erythematosus,
+          * Systemic lupus erythematosus,
 
-          * rheumatoid arthritis
+          * Rheumatoid arthritis
 
-          * sarcoidosis,
+          * Sarcoidosis,
 
-          * amyloidosis,
+          * Amyloidosis,
 
-          * eosinophilic granulomatosis with polyangiitis.
+          * Eosinophilic granulomatosis with polyangiitis.
 
 
           ### 3. Malignant diseases
 
 
-          * head and neck cancers
+          * Head and neck cancers
 
-          * leukemia,
+          * Leukemia,
 
-          * lymphoma,
+          * Lymphoma,
 
-          * metastatic cancer
+          * Metastatic cancer
 
 
           ### When to see your doctor?
@@ -101,7 +100,7 @@ sectionsinner:
 
           * You've got a fever, nocturnal sweats, or a sudden loss of weight.
 
-          * in children any node larger than 1 centimeter) in diameter.
+          * In children any node larger than 1 centimeter) in diameter.
 
 
           The course of action depends on what caused the enlarged nodes.

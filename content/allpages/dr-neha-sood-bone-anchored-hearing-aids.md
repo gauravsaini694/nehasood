@@ -8,7 +8,7 @@ hero:
   heroTitle: What is Bone Conduction Hearing?
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
   heroBtnText: Book Appointment
-  heroImage: /images/uploads/banner12.png
+  heroImage: /images/uploads/conduction-hearing.png
 heroBelwoBoxNumber: 3
 sectionsinner:
   - lists:

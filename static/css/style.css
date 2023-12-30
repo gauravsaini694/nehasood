@@ -1565,7 +1565,7 @@ nav {
 .see_more_btn {
     position: absolute;
     bottom: 20px;
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     padding: 5px 10px;
     color: #fff;
     opacity: 0;
@@ -2563,4 +2563,10 @@ span.blocktxt {
 .card-img-top-blog {
     width: 393px !important;
     height: 250px !important;
+}
+
+.cardtext {
+    background-color: #00000054;
+    padding: 7px 15px;
+    border-radius: 8px;
 }

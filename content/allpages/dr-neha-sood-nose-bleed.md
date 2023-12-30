@@ -10,7 +10,7 @@ hero:
   heroDesc: “Epistaxis” is the medical term for a nosebleed. A nosebleed, meaning
     a loss of blood from the tissue that lines the inside of your nose, can
     occur in one or both nostrils. Usually, it only affects one nostril.
-  heroImage: /images/uploads/allergies.jpg
+  heroImage: /images/uploads/nasal-bleeding.png
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
   heroBtnText: Book Appointment
 heroBelwoBoxNumber: 3
