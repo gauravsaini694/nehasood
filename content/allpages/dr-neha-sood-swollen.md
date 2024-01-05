@@ -89,7 +89,7 @@ sectionsinner:
           * Metastatic cancer
 
 
-          ### When to see your doctor?
+          ### When to See Your Doctor?
 
 
           * Your lymph nodes are increasing in size or not getting smaller after a few weeks.

@@ -75,7 +75,7 @@ sectionsinner:
           ![](http://localhost:36551/images/vertigo_side.png)
 
 
-          ### Diagnosis & treatment
+          ### Diagnosis & Treatment
 
 
           Treatment for vertigo depends on what's causing it. In many cases, vertigo goes away without any treatment. This is because your brain is able to adapt, at least in part, to the inner ear changes, relying on other mechanisms to maintain balance.

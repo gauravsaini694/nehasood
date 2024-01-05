@@ -126,7 +126,7 @@ sectionsinner:
           ![](http://localhost:36551/images/ear_discharge_side.png)
 
 
-          ### Diagnosis & treatment
+          ### Diagnosis & Treatment
 
 
           * Treatment of your ear discharge depends on its cause. In some cases, your condition won’t need medical treatment.

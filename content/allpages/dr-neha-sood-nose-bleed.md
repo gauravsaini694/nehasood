@@ -38,7 +38,7 @@ sectionsinner:
           Epistaxis is common. About 60% of people will have at least one nosebleed in their lifetime. Only about 10% of cases are severe enough to require medical treatment.
 
 
-          ### Who gets Nasal Bleeding?
+          ### Who Gets Nasal Bleeding?
 
 
           Anyone can get nasal bleeding. Most people will have at least one case in their lifetime. However, some people are more likely to have a nosebleed. They include:
@@ -55,7 +55,7 @@ sectionsinner:
           * **People who have blood clotting disorders:** These include hemophilia and von Willebrand disease.
 
 
-          ### Types of nosebleeds
+          ### Types of Nosebleeds
 
 
           There are two main types of nosebleeds.
@@ -181,7 +181,7 @@ sectionsinner:
           ## Management and Treatment
 
 
-          ### How to stop a nosebleed
+          ### How to stop a Nosebleed
 
 
           **Use the following steps to stop a nosebleed at home.**
@@ -204,7 +204,7 @@ sectionsinner:
           * After the bleeding stops, don’t bend over, strain and/or lift anything heavy. Don’t blow or rub your nose for several days.
 
 
-          ### When should I see my doctor about nasal bleeding?
+          ### When Should I see my Doctor About Nasal Bleeding?
 
 
           * You get epistaxis often.
@@ -220,7 +220,7 @@ sectionsinner:
           * You get epistaxis, as well as notice unusual bruising all over your body. This combination may indicate a more serious condition such as a blood-clotting disorder (hemophilia or von Willebrand disease), leukemia or a nasal tumor.
 
 
-          ### What are the treatments for epistaxis?
+          ### What Are the Treatments For Epistaxis?
 
 
           **Nosebleed treatment depends on the cause of the bleeding. Epistaxis treatment may include:**
@@ -242,7 +242,7 @@ sectionsinner:
           ## Prevention
 
 
-          ### What can I do to prevent nosebleeds?
+          ### What can I do to prevent Nosebleeds?
 
 
           * Use a saline nasal spray or saline nose drops two to three times a day in each nostril to keep your nasal passages moist. You can purchase these products over-the-counter or you can make them at home. To make the saline solution at home, mix 1 teaspoon of salt into 1 quart of tap water. Boil water for 20 minutes, and let cool until lukewarm.
@@ -274,7 +274,7 @@ sectionsinner:
           ## Outlook / Prognosis
 
 
-          ### When to worry about a nosebleed
+          ### When to Worry About a Nosebleed
 
 
           Although seeing blood coming out of your nose can be alarming, most nosebleeds aren’t serious. You can usually manage them at home. However, you should have some cases of epistaxis checked by a doctor. For instance, if you have frequent nosebleeds, see a provider. This could be an early sign of another medical issue that they’ll want to look into.
@@ -283,16 +283,16 @@ sectionsinner:
           Some nosebleeds can start in the back of your nose. These cases of epistaxis usually involve large blood vessels resulting in heavy bleeding and can be dangerous. You’ll need medical attention for this type of bleed, especially if the bleeding occurs after an injury and the bleeding hasn’t stopped after 20 minutes of applying direct pressure to your nose.
 
 
-          ### Can you die from a nosebleed?
+          ### Can You Die From a Nosebleed?
 
 
           Nosebleeds that occur higher on your septum or deeper in your nose may be harder to control. However, nosebleeds are rarely fatal. They account for 4 out of every 2.4 million deaths in the United States.
 
 
-          ## Living With
+          ## Living with
 
 
-          ### Why do I get frequent nosebleeds in one nostril?
+          ### Why do I get Frequent Nosebleeds in One Nostril?
 
 
           **There are many non-serious reasons you may be getting frequent nosebleeds. They can affect one or both nostrils. The most common causes are:**
@@ -307,19 +307,19 @@ sectionsinner:
           * In rare cases, repeated epistaxis could be a sign of a bleeding disorder or other more serious conditions. If you have frequent nosebleeds, see a doctor.
 
 
-          ### What causes nosebleeds while sleeping?
+          ### What Causes Nosebleeds While Sleeping?
 
 
           The reasons for nosebleeds during sleep are the same as the reasons why they occur during the daytime — dried nasal membranes caused by dry air, allergies and upper respiratory infections that damage the delicate nasal membrane lining your nose. Sleeping with your head to the side may also put direct pressure on your nasal cavity and may be another reason for epistaxis at night.
 
 
-          ### Can I drink water after a nosebleed?
+          ### Can I Drink Water After a Nosebleed?
 
 
           Yes, you should drink plenty of fluids after a nosebleed. Good options include water, juice and other non-caffeinated liquids. After you experience epistaxis, some blood may drain down the back of your throat into your stomach. This may give you a bad taste in the back of your throat or make you feel nauseated. But drinking water won’t affect a nosebleed.
 
 
-          ### When should I go to the emergency room if I have a nosebleed?
+          ### When Should I go to the Emergency Room If I Have a Nosebleed?
 
 
           **Call your doctor immediately, have someone drive you to the nearest emergency room or call 911 if:**
@@ -345,7 +345,7 @@ sectionsinner:
           Yes. Blood clots are clumps of blood that form in reaction to an injured blood vessel. Blood clotting prevents excessive bleeding when a blood vessel is damaged. When you pinch your nose to stop a nosebleed, the blood will begin to clot. It’ll normally remain there until you remove it or gently blow your nose.
 
 
-          ### Why do I have a headache and a nosebleed?
+          ### Why do I Have a Headache and a Nosebleed?
 
 
           Many factors can lead to headaches and nosebleeds. A common cause of both symptoms is a deviated septum (a shifted wall in your nose). One study found that epistaxis may be a precursor to migraines. Other common causes of headaches and nosebleeds may include:

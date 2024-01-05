@@ -21,7 +21,7 @@ sectionsinner:
           Problems in your outer or middle ear can restrict sound waves from getting through to your inner ear which results in hearing loss. A common example is re-occurring ear infections or Chronic Otitis Media (COM). The underlying medical condition can be treated with surgeries, but the hearing loss remains in 30% of these cases1 and the need for repetitive surgeries is common.
 
 
-          ### Candidacy identification
+          ### Candidacy Identification
 
 
           Assess audiological status, medical etiologies and impact to daily life to determine if bone conduction may be an appropriate solution. Consider the following:
@@ -37,7 +37,7 @@ sectionsinner:
           A bone conduction solution works by bypassing the blocked parts of the natural hearing pathway to help you hear. This may reduce the need for multiple surgeries that attempt to reconstruct the damaged part of the ear or to achieve a dry ear, an ear free of infection. They leave the ear canal free, which lowers the risk for ear infections compared to wearing a hearing aid
 
 
-          ### How active OS implants work
+          ### How Active OS Implants Work
 
 
           Active osseointegrated steady-state implants (OS implants) use the principle of bone conduction, but unlike traditional bone conduction solutions, OS implants deliver sound vibrations through digital piezoelectric stimulation.
@@ -57,7 +57,7 @@ sectionsinner:
           <https://youtu.be/TiBZci2B_lY>
 
 
-          ### What are the benefits?
+          ### What Are the Benefits?
 
 
           Research and decades of experience have shown that bone conduction solutions may help you or your child:

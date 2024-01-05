@@ -113,7 +113,7 @@ sectionsinner:
           * **Some illnesses.** Diseases or illnesses that result in high fever, such as meningitis, may damage the cochlea.
 
 
-          ### Diagnosis & treatment
+          ### Diagnosis & Treatment
 
 
           Patients who suspect something is wrong with their hearing will initially go and see their doctor.
@@ -175,7 +175,7 @@ sectionsinner:
           If you answered “yes” to most of the above questions, see a doctor and have your hearing checked.
 
 
-          ### General screening test
+          ### General Screening Test
 
 
           A doctor may ask the patient to cover one ear and describe how well they hear words spoken at different volumes, as well as checking sensitivity to other sounds.
@@ -208,7 +208,7 @@ sectionsinner:
           Bone oscillator test: This is used to find out how well vibrations pass through the ossicles. A bone oscillator is placed against the mastoid. The aim is to gauge the function of the nerve that carries these signals to the brain.
 
 
-          ### Routine screening of children
+          ### Routine Screening of Children
 
 
           The American Academy of Pediatrics (AAP) recommends that children have their hearing tests at the following times:

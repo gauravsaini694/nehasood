@@ -41,8 +41,7 @@ sectionsinner:
           * Reduced sense of smell and taste
 
 
-          ### Other signs and symptoms can include:
-
+          ### Other Signs And Symptoms Can Include:
 
 
 
@@ -68,7 +67,7 @@ sectionsinner:
 
 
 
-          ### When to see a doctor
+          ### When To See A Doctor
 
 
           Schedule an appointment with your doctor if:
@@ -83,7 +82,7 @@ sectionsinner:
 
 
 
-          ### See a doctor immediately if you have the following signs or symptoms, which could indicate a serious infection:
+          ### See  A  Doctor  Immediately  If  You  Have  The  Following  Signs  or  Symptoms,  Which  Could Indicate  a  Serious  Infection:
 
 
           * Fever
@@ -120,7 +119,7 @@ sectionsinner:
           * **Allergies such as hay fever.** Inflammation that occurs with allergies can block your sinuses.
 
 
-          ## Risk factors
+          ## Risk Factors
 
 
           #### You're at increased risk of getting chronic sinusitis if you have:
@@ -173,7 +172,7 @@ sectionsinner:
           * **Use a humidifier.** If the air in your home is dry, such as it is if you have forced hot air heat, adding moisture to the air may help prevent sinusitis. Be sure to keep the humidifier clean and free of mold with regular, thorough cleaning.
 
 
-          ### Diagnosis & treatment
+          ### Diagnosis & Treatment
 
 
           Your doctor can usually make a diagnosis based on your answers to questions about your symptoms, a general physical exam and an examination of your nose. Polyps may be visible with the aid of a simple lighted instrument.
@@ -237,7 +236,7 @@ sectionsinner:
 
 
 
-          ### Potential future treatments
+          ### Potential Future Treatments
 
 
           Researchers are studying the role of biologic drugs, including medications that treat severe asthma, in helping reduce nasal polyps and relieve symptoms. Biologics work by targeting specific cells or proteins to reduce irritation and swelling. Early research suggests that the drugs may become options for people whose nasal polyps don't respond to corticosteroids or surgery.
