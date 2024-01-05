@@ -7,18 +7,18 @@
 </script>
 <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/js/vendor/popper.min.js"></script>
-<script src="/aos/aos.js"></script>
+<!-- <script src="/aos/aos.js"></script> -->
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
 <link rel="stylesheet" href="/css/jquery.es-drawermenu.min.css" />
 <script src="/js/jquery.es-drawermenu.js"></script>
-
+<script src="/js/toastr.js"></script>
 <script src="/js/mloyal.js"></script>
-<script>
+<!-- <script>
     AOS.init({
         easing: "ease-in-out-sine",
     });
-</script>
+</script> -->
 
 <script>
     window.intergramId = "1194899443";
@@ -35,14 +35,47 @@
 </script>
 <script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-<script>
-    hbspt.forms.create({
-        region: "na1",
-        portalId: "39761076",
-        formId: "f831816b-0050-4d5c-b78e-9fed8f676de3",
-        target: '#contact',
-    });
+<script lazyload>
+    $(function() {
+        $("#EnquiryForm").on("submit", function(event) {
+            event.preventDefault();
+            // var email = $('input[name=email]').val();
+            var data = {
+                name: $("#name").val(),
+                lastname: $("#lastname").val(),
+                email: $("#email").val(),
+                phonenumber: $("#phonenumber").val(),
+                message: $("#message").val(),
+            }
+
+            console.log("data", data);
+            var EnquiryForm = JSON.stringify(data)
+            $.ajax({
+                url: "http://127.0.0.1:8001/v1/contact-us ",
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                type: "post",
+                data: EnquiryForm,
+                success: function(d) {
+                    $('input[name=name]').val("")
+                    $('input[name=lastname]').val("")
+                    $('input[name=email]').val("")
+                    $('input[name=phonenumber]').val("")
+                    $('textarea[name=message]').val("")
+
+                    if (d) {
+                        toastr.success(d.message);
+                        window.location = "/signup";
+                    }
+                },
+                error: function(e) {
+                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
+                    toastr.error(errorMessage);
+                }
+            });
+        });
+    })
 </script>
 
 
