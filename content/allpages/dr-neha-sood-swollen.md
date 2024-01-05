@@ -6,6 +6,8 @@ keywords:
   - keyText: "Dr. Neha Sood :: Swollen"
 hero:
   heroTitle: SWOLLEN LYMPH NODES
+  heroDesc:  Lymph nodes are present throughout your body. They are an important part of your immune system. Lymph nodes help your body recognize and fight germs, infections, and other foreign substances.
+    The term "swollen glands" refers to enlargement of one or more lymph nodes.
   heroImage: /images/uploads/swollen-lymph-nodes.png
   heroBtnText: Book Appointment
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true

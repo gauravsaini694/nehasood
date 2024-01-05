@@ -6,6 +6,7 @@ keywords:
   - keyText: "Dr. Neha Sood :: tonsils"
 hero:
   heroTitle: TONSILLITIS
+  heroDesc: Tonsillitis is a common condition that happens when your tonsils get infected. Symptoms typically include sore throat, fever and swollen lymph nodes. Treatment depends on whether the infection is viral or bacterial, and recovery usually takes about one week.
   heroImage: /images/uploads/tonsil_side.png
   heroBtnText: Book Appointment
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true

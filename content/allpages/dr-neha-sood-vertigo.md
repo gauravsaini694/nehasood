@@ -6,6 +6,8 @@ keywords:
   - keyText: "Dr. Neha Sood :: vertigo"
 hero:
   heroTitle: VERTIGO
+  heroDesc: Vertigo is a sensation of motion or spinning that is often described as dizziness.   
+       Vertigo is not the same as being lightheaded. People with vertigo feel as though they are spinning or moving, or that the world is spinning around them. 
   heroImage: /images/uploads/vertigo_side.png
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
   heroBtnText: Book Appointment

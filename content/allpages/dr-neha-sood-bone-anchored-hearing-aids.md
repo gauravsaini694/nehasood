@@ -6,6 +6,7 @@ keywords:
   - keyText: "Dr. Neha Sood :: bone anchored hearing aids"
 hero:
   heroTitle: What is Bone Conduction Hearing?
+  heroDesc: A bone-anchored hearing aid or  BAHA is a type of hearing aid based on bone condition. It is primarily suited for people who have conductive hearing losses unilateral hearing loss single-sided deafness and people with mixed hearing losses who cannot otherwise wear 'in the ear' or 'behind the ear' hearing aids.  
   heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
   heroBtnText: Book Appointment
   heroImage: /images/uploads/conduction-hearing.png
