@@ -10,7 +10,7 @@ hero:
     asleep. Your brain tries to protect you by waking you up enough to breathe.
     "Apnea" comes from the Greek word for "breathless".
   heroImage: /images/uploads/sleeping_apnea_side.png
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
   heroBtnText: Book Appointment
 heroBelwoBoxNumber: 3
 sectionsinner:

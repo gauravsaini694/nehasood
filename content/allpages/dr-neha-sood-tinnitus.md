@@ -9,7 +9,7 @@ hero:
 Tinnitus is commonly described as a ringing sound, but some people hear other types of sounds, such as roaring or buzzing."
   heroTitle: TINNITUS
   heroImage: /images/uploads/tinnitis_side.png
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
   heroBtnText: Book Appointment
 heroBelwoBoxNumber: 3
 sectionsinner:

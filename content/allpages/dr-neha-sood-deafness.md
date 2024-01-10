@@ -12,7 +12,7 @@ hero:
     degree of hearing loss.
   heroImage: /images/uploads/hearing-banner.png
   heroBtnText: Book Appointment
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
 heroBelwoBoxNumber: 3
 sectionsinner:
   - title: DEAFNESS

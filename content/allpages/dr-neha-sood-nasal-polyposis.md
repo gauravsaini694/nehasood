@@ -12,7 +12,7 @@ hero:
     recurring infection, allergies, drug sensitivity or certain immune
     disorders.
   heroImage: /images/uploads/nasal_polyps_side.png
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
   heroBtnText: Book Appointment
 heroBelwoBoxNumber: 3
 sectionsinner:

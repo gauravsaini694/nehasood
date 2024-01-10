@@ -12,7 +12,7 @@ hero:
     treatment.
   heroImage: /images/uploads/voice-tips.webp
   heroBtnText: Book Appointment
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
 heroBelwoBoxNumber: 3
 sectionsinner:
   - title: CHRONIC SINUSITIS

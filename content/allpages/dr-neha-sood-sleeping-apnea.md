@@ -8,7 +8,7 @@ hero:
   heroTitle: SLEEPING APNEA AND SNORING
   heroDesc:  Sleep apnea is a potentially serious sleep disorder in which breathing repeatedly stops and starts. If you snore loudly and feel tired even after a full night's sleep, you might have sleep apnea.
   heroBtnText: Book Appointment
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
   heroImage: /images/snoring.png
 heroBelwoBoxNumber: 3
 sectionsinner:

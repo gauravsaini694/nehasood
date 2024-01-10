@@ -10,7 +10,7 @@ hero:
   heroDesc: A voice disorder occurs when voice quality, pitch, and loudness differ or are inappropriate for an individual’s age, gender, cultural background, or geographic location.
   heroImage: /images/uploads/banner_1.png
   heroBtnText: Book Appointment
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
 heroBelwoBoxNumber: 3
 sectionsinner:
   - title: VOICE DISORDER

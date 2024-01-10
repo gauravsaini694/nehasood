@@ -10,7 +10,7 @@ hero:
     The term "swollen glands" refers to enlargement of one or more lymph nodes.
   heroImage: /images/uploads/swollen-lymph-nodes.png
   heroBtnText: Book Appointment
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
 heroBelwoBoxNumber: 3
 sectionsinner:
   - title: SWOLLEN LYMPH NODES

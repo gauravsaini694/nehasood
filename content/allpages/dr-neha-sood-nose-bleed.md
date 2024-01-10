@@ -11,7 +11,7 @@ hero:
     a loss of blood from the tissue that lines the inside of your nose, can
     occur in one or both nostrils. Usually, it only affects one nostril.
   heroImage: /images/uploads/nasal-bleeding.png
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
   heroBtnText: Book Appointment
 heroBelwoBoxNumber: 3
 sectionsinner:

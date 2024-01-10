@@ -13,7 +13,7 @@ hero:
     ear infections.
   heroImage: /images/uploads/ear_discharge_side.png
   heroBtnText: Book Appointment
-  heroBtnUrl: https://docon.co.in/patientmweb/doctors/nehasood?edge=true
+  heroBtnUrl: /contact_us
 heroBelwoBoxNumber: 3
 sectionsinner:
   - title: EAR DISCHARGE

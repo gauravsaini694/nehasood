@@ -1,50 +1,113 @@
 {{ define "main" }}
 <main role="main">
-    <section id="home">
-        <img src="/images/about-us.jpg" class="img-fluid" alt="">
-    </section>
-
-    <!-- <div class="container mt-4">
-        <div class="w-100 py-md-2 px-2 px-sm-5">
-            <h3 class="heading2 text-left text-uppercase mb-4">Contact Us</h3>
+    <div class="banner_content flex-wrap bg_sea_blue justify-content-between flex-column-reverse_xs ">
+        <div class="col-md-10 mx-auto ">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center">
+                    <div class="banner_text2 px-5 py-3">
+                        <h1 class="banner_heading1 text-white">
+                            Contact Us
+                        </h1>
+                        <br>
+                        <p class="text-white">Dr. Neha Sood <br>Ear, Nose & Throat <br>Surgeon </p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6 col-sm-6  img-iped-head all-img-left">
+                    <img style="border-radius: 20px;" src="/images/R.jpeg" alt="Drnehasood">
+                </div>
+            </div>
         </div>
-    </div> -->
+    </div>
+
 
     <section class="pb-4">
         <div class="container">
             <div class="w-100 py-md-2 px-2 px-sm-5">
                 <h3 class="heading2 text-center mb-5 text-uppercase">Enquiry Form</h3>
-
                 <div class="enq_form">
                     <form id="EnquiryForm">
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="text" id="name" name="name" class="enq_control form-control" placeholder="First Name">
+                                    <input type="text" id="name" name="name" class="enq_control form-control"
+                                        placeholder="Name">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="text" id="lastname" name="lastname" class="enq_control form-control" placeholder="Last Name">
+                                    <input type="email" id="email" name="email" class="enq_control form-control"
+                                        placeholder="Email">
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="email" id="email" name="email" class="enq_control form-control" placeholder="Email">
+                                    <input type="tel" id="phoneNumber" name="phoneNumber"
+                                        class="enq_control form-control" placeholder="Mobile Number">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input type="tel" id="phonenumber" name="phonenumber" class="enq_control form-control" placeholder="Mobile Number">
+                                    <input type="text" id="age" name="age" class="enq_control form-control"
+                                        placeholder="Age">
                                 </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <select id="gender" name="gender" class="enq_control form-control"
+                                        placeholder="Sex">
+                                        <option disabled selected hidden>Sex</option>
+                                        <option value="male">Male</option>
+                                        <option value="female">Female</option>
+                                        <option value="others">others</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <select id="location" name="location" class="enq_control form-control"
+                                        placeholder="Clinic location">
+                                        <option disabled selected hidden>Clinic location </option>
+                                        <option value="ArBor Multi Speciality Clinic">ArBor Multi Speciality Clinic
+                                        </option>
+                                        <option value="Nath Eye Clinic ">Nath Eye Clinic </option>
+                                        <option value="BLK-Max Super Specialty Hospital">BLK-Max Super Specialty
+                                            Hospital </option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <input type="text" id="appointmentDate" name="appointmentDate"
+                                        class="enq_control form-control" placeholder="Choose Date">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <select id="slot" name="slot" class="enq_control form-control" placeholder="Time">
+                                    <option disabled selected hidden>Time</option>
+                                    <option value="9:00Am-10:00Am">9:00Am - 10:00Am</option>
+                                    <option value="10:00Am-11:00Am">10:00Am - 11:00Am</option>
+                                    <option value="11:00Am-12:00Pm">11:00Am - 12:00Am</option>
+                                    <option value="12:00Pm-01:00Pm">12:00pm - 01:00Pm</option>
+                                    <option value="01:00Pm-02:00Pm">01:00Pm - 02:00Pm</option>
+                                    <option value="02:00Pm-03:00Pm">02:00Pm - 03:00Pm</option>
+                                    <option value="03:00Pm-04:00Pm">03:00Pm - 04:00Pm</option>
+                                    <option value="04:00Pm-05:00Pm">04:00Pm - 05:00Pm</option>
+                                    <option value="05:00Pm-06:00Pm">05:00Pm - 06:00Pm</option>
+                                    <option value="06:00Pm-07:00Pm">06:00Pm - 07:00Pm</option>
+                                </select>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <textarea id="message" name="message" class="enq_control form-control" placeholder="Message"></textarea>
+                                    <textarea id="message" name="message" class="enq_control form-control"
+                                        placeholder="Message"></textarea>
                                 </div>
                             </div>
                         </div>

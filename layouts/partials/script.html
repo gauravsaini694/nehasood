@@ -14,11 +14,34 @@
 <script src="/js/jquery.es-drawermenu.js"></script>
 <script src="/js/toastr.js"></script>
 <script src="/js/mloyal.js"></script>
+
+<!-- <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script> -->
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
 <!-- <script>
     AOS.init({
         easing: "ease-in-out-sine",
     });
 </script> -->
+
+<script>
+    $(document).ready(function () {
+        $('#appointmentDate').datepicker({
+            format: 'yyyy-mm-dd', // Customize the date format as needed
+            autoclose: true,
+            todayHighlight: true
+        }).on('focus', function () {
+            $(this).datepicker('show');
+        });
+    });
+</script>
+
 
 <script>
     window.intergramId = "1194899443";
@@ -39,43 +62,41 @@
     $(function() {
         $("#EnquiryForm").on("submit", function(event) {
             event.preventDefault();
-            // var email = $('input[name=email]').val();
+            
+            // Add client-side validation here if needed
+
             var data = {
                 name: $("#name").val(),
-                lastname: $("#lastname").val(),
                 email: $("#email").val(),
-                phonenumber: $("#phonenumber").val(),
+                phoneNumber: $("#phoneNumber").val(),
+                age: $("#age").val(),
+                gender: $("#gender").val(),
+                location: $("#location").val(),
+                appointmentDate: $("#appointmentDate").val(),
+                slot: $("#slot").val(),
                 message: $("#message").val(),
-            }
-
-            console.log("data", data);
-            var EnquiryForm = JSON.stringify(data)
+                source: "drnehasood.in",
+            };
+            var EnquiryForm = JSON.stringify(data);
+            
             $.ajax({
-                url: "http://127.0.0.1:8001/v1/contact-us ",
+                url: "https://v2api.vizitorapp.com/v1/contact-us",
                 headers: {
                     'Content-Type': 'application/json',
                 },
                 type: "post",
                 data: EnquiryForm,
                 success: function(d) {
-                    $('input[name=name]').val("")
-                    $('input[name=lastname]').val("")
-                    $('input[name=email]').val("")
-                    $('input[name=phonenumber]').val("")
-                    $('textarea[name=message]').val("")
-
-                    if (d) {
-                        toastr.success(d.message);
-                        window.location = "/signup";
-                    }
+                    $("#EnquiryForm")[0].reset(); // Reset the form
+                    toastr.success(d.message);
+                    window.location = "/signup";
                 },
                 error: function(e) {
-                    const errorMessage = e && e.responseJSON && e.responseJSON.message || 'Please try after some time.'
-                    toastr.error(errorMessage);
+                    toastr.error(e.statusText);
                 }
             });
         });
-    })
+    });
 </script>
 
 
