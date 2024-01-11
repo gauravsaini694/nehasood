@@ -18,7 +18,7 @@ sectionsinner:
       - content: >-
           
 
-          Dr. Neha Sood, Principal Consultant- ENT & Cochlear Implant, BLK-Max Super Speciality Hospital
+          Dr. Neha Sood, Associate Director- ENT & Cochlear Implant, BLK-Max Super Speciality Hospital
 
 
           Swollen lymph nodes or Lymphadenopathy refers to the swelling of lymph nodes which can be due to bacterial, viral, or fungal infections, malignancy or autoimmune disease. When your body's immune system works to eliminate infection and/or foreign viruses or bacteria, your lymph nodes may expand or get larger.

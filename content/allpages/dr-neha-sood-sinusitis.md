@@ -10,7 +10,7 @@ hero:
   heroDesc: Chronic sinusitis occurs when the spaces inside your nose and head
     (sinuses) are swollen and inflamed for three months or longer, despite
     treatment.
-  heroImage: /images/uploads/voice-tips.webp
+  heroImage: /images/uploads/sinniutus-img.webp
   heroBtnText: Book Appointment
   heroBtnUrl: /contact_us
 heroBelwoBoxNumber: 3

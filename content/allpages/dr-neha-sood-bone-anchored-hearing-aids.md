@@ -54,9 +54,7 @@ sectionsinner:
 
           Together, these components bypass the part of the ear that isn’t working. The vibrations from the Piezo Power transducer travel to the inner ear where they are converted into electrical impulses and sent to the brain to be interpreted as sound.
 
-
-          <https://youtu.be/TiBZci2B_lY>
-
+          [{{< figure src="/images/youtubimg.png" >}}](https://www.youtube.com/watch?v=TiBZci2B_lY)
 
           ### What Are the Benefits?
 
