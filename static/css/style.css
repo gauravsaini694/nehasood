@@ -2694,3 +2694,65 @@ h4 {
     margin-left: auto;
     height: 900px;
 }
+
+.article-share-icon {
+    margin-right: 15px;
+}
+
+.dXZ {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+._3wTW {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+._3NwF {
+    padding: 12px 30px 12px 44px;
+    border: 2px solid #000;
+    position: relative;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+._3NwF .kd8Q {
+    top: -2px;
+    left: -3px;
+}
+
+._3NwF ._3rih {
+    margin-right: 10px;
+    width: 46px;
+    height: 45px;
+    background-color: #fff;
+    position: absolute;
+}
+
+._3NwF ._1yW7 {
+    right: -12px;
+    bottom: -6px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+._3NwF ._2vhe ._3sJl {
+    margin-top: 10px;
+    font-size: .875rem;
+}
+
+._11eW p {
+    font-size: .8125rem;
+    color: var(--textColor);
+}
