@@ -6,7 +6,10 @@ keywords:
   - keyText: "Dr. Neha Sood :: tonsils"
 hero:
   heroTitle: TONSILLITIS
-  heroDesc: Tonsillitis is a common condition that happens when your tonsils get infected. Symptoms typically include sore throat, fever and swollen lymph nodes. Treatment depends on whether the infection is viral or bacterial, and recovery usually takes about one week.
+  heroDesc: Tonsillitis is a common condition that happens when your tonsils get
+    infected. Symptoms typically include sore throat, fever and swollen lymph
+    nodes. Treatment depends on whether the infection is viral or bacterial, and
+    recovery usually takes about one week.
   heroImage: /images/uploads/tonsil_side.png
   heroBtnText: Book Appointment
   heroBtnUrl: /contact_us
@@ -15,9 +18,7 @@ sectionsinner:
   - title: TONSILLITIS
     lists:
       - content: >-
-          
-
-          ### Overview
+          ### Overview:
 
 
           Tonsillitis is inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat — one tonsil on each side. Signs and symptoms of tonsillitis include swollen tonsils, sore throat, difficulty swallowing and tender lymph nodes on the sides of the neck.
