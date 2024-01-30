@@ -1,10 +1,12 @@
 ---
 title: Tonsillitis
-description: Tonsillitis can affect people of all ages, but it is most commonly observed in children and young adults.
+description: Clinicians may recommend tonsillectomy for recurrent throat infection with a frequency of at least 7 episodes in the past year,...
 date: 2024-01-30T01:25:39.307Z
 draft: false
 image: /images/blog/Tonsillitis.png
 ---
+
+Clinicians may recommend tonsillectomy for recurrent throat infection with a frequency of at least 7 episodes in the past year, at least 5 episodes per year for 2 years, or at least 3 episodes per year for 3 years with documentation in the medical record for each episode of sore throat and ≥1 of the following: temperature >38.3°C (101°F), cervical adenopathy, tonsillar exudate, or positive test for group A beta-hemolytic streptococcus.
 
 ## Symptoms of Tonsillitis
 
