@@ -31,12 +31,12 @@
 </script> -->
 
 <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
         $('#appointmentDate').datepicker({
             format: 'yyyy-mm-dd', // Customize the date format as needed
             autoclose: true,
             todayHighlight: true
-        }).on('focus', function () {
+        }).on('focus', function() {
             $(this).datepicker('show');
         });
     });
@@ -62,7 +62,7 @@
     $(function() {
         $("#EnquiryForm").on("submit", function(event) {
             event.preventDefault();
-            
+
             // Add client-side validation here if needed
 
             var data = {
@@ -78,7 +78,7 @@
                 source: "drnehasood.in",
             };
             var EnquiryForm = JSON.stringify(data);
-            
+
             $.ajax({
                 url: "https://v2api.vizitorapp.com/v1/contact-us",
                 headers: {
@@ -89,7 +89,7 @@
                 success: function(d) {
                     $("#EnquiryForm")[0].reset(); // Reset the form
                     toastr.success(d.message);
-                    window.location = "/signup";
+                    window.location = "/";
                 },
                 error: function(e) {
                     toastr.error(e.statusText);
